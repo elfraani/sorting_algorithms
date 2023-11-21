@@ -1,8 +1,3 @@
-/*
- * File: 2-selection_sort.c
- * Auth: fouad el fraani
- */
-
 #include "sort.h"
 
 /**

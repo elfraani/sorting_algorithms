@@ -1,8 +1,3 @@
-/*
- * File: 102-counting_sort.c
- * Auth: fouad el fraani 
- */
-
 #include "sort.h"
 
 /**

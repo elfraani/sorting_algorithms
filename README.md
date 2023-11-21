@@ -1,1 +1,1 @@
-#the sorting algorithm project
+# Welcome to the sorting algorithm project

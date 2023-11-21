@@ -1,8 +1,3 @@
-/*
- * File: 100-shell_sort.c
- * Auth: fouad el fraani 
- */
-
 #include "sort.h"
 
 /**
