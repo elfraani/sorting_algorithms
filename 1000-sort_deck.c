@@ -1,6 +1,6 @@
 /*
  * File: 1000-sort_deck.c
- * Auth: Brennan D Baraban
+ * Auth: fouad el fraani
  */
 
 #include "deck.h"

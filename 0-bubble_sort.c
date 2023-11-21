@@ -1,6 +1,6 @@
 /*
  * File: 0-bubble_sort.c
- * Auth: Brennan D Baraban
+ * Auth: fouad el fraani
  */
 
 #include "sort.h"
